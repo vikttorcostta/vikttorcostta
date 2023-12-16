@@ -1,16 +1,10 @@
-### Hi there 👋
-
-
-**vikttorcostta/vikttorcostta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+# Si vis pacem, para bellum
+💻 Bacharelado em Sistemas de Informação   <br>
+📊 Tecnólogo em Banco de Dados             <br>
+⚙️ Técnico em Desenvolvimento de Sistemas  <br>
+<div>
+    <a href="https://github.com/vikttorcostta">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vikttorcostta&show_icons=true&theme=tokyonight" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikttorcostta&theme=tokyonight" />
+    </a>
+</div>
