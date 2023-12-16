@@ -4,7 +4,7 @@
 ⚙️ Técnico em Desenvolvimento de Sistemas  <br><br>
 <div>
     <a href="https://github.com/vikttorcostta">
-        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=vikttorcostta&show_icons=true&theme=tokyonight&layout=compact" />
+        <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=vikttorcostta&show_icons=true&theme=tokyonight&layout=compact" />
         <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikttorcostta&theme=tokyonight&layout=compact&langs_count=200&card_width=320" />
     </a>
 </div>
