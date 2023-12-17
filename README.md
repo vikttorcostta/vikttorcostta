@@ -5,5 +5,6 @@
         <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=vikttorcostta&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&show_owner=true&repo=github-readme-stats" />
         <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikttorcostta&theme=tokyonight&layout=compact&top-langs&card_width=320" />
         <img height=160 src="https://github-readme-stats.vercel.app/api/wakatime?username=vikttorcostta&theme=tokyonight&layout=compact"/>
+        <img src="https://img.itch.zone/aW1nLzcxMjUwMDYuZ2lm/original/wuLmgb.gif"/>
     </a>
 </div>
